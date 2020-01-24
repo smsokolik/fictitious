@@ -4,7 +4,7 @@ body {
     line-height: 1.6em;
     margin: 0;
   }
-  .top-container {
+.topcontainer {
     background: #333;
     color: white;
     width: 80%;
