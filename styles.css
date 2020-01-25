@@ -1,10 +1,11 @@
 body {
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: font-family: 'Barlow', sans-serif;
     font-size: 16px;
     line-height: 1.6em;
     margin: 0;
   }
 .bartop {
+    font-family: 'Barlow', sans-serif;
     background: #333;
     color: white;
     width: 100%;
@@ -12,11 +13,13 @@ body {
   }
 
 .barbottom {
+    font-family: 'Barlow', sans-serif;
     background: rgb(117, 116, 116);
     color: white;
     width: 100%;
     margin: auto;
   }
+  
 .sidenav {
     max-width: 10px;
 }
@@ -24,9 +27,3 @@ body {
 .responsive {
   width: 100%;
 }
-.color-1{background-color: orange;}
-.color-2{background-color: fuchsia;}
-.color-3{background-color: red;} 
-.color-4{background-color: blue;}
-.color-5{background-color: green;}
-.color-6{background-color: rebeccapurple;}
