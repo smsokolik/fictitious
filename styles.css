@@ -52,3 +52,6 @@ img {
   float: left;
   margin-right: 20px;
 }
+.condensed {
+  font-family: 'Barlow Condensed', sans-serif;
+}
