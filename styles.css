@@ -30,6 +30,15 @@ body {
    margin-bottom: 20px;
  } 
 
+ a:hover { 
+  background-color: black;
+}
+
+.hover-box {
+  background-color: lightgrey;
+}
+
+
 .sidenav {
     max-width: 10px;
 }
@@ -54,4 +63,11 @@ img {
 }
 .condensed {
   font-family: 'Barlow Condensed', sans-serif;
+}
+.nav-text {
+  color: gray
+}
+
+a:active {
+  background-color: black;
 }
