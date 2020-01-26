@@ -1,5 +1,5 @@
 body {
-    font-family: font-family: 'Barlow', sans-serif;
+    font-family:'Barlow', sans-serif;
     font-size: 16px;
     line-height: 1.6em;
     margin: 0;
@@ -18,10 +18,10 @@ body {
     left: 0;
     bottom: 0;
     width: 100%;
-    background-color:rgb(204, 0, 0);
-    color: white;
+    background-color:lightgrey;
+    color: black;
     text-align: center;
-    padding: 30px;
+    padding: 5px;
   }
 
  .top-nav {
@@ -49,6 +49,6 @@ img {
 }
 
 .image-two {
-  float: left
+  float: left;
   margin-right: 20px;
 }
