@@ -40,3 +40,6 @@ body {
 .color-red {
   color: rgb(204, 0, 0);
 }
+.left {
+  float: left;
+}
