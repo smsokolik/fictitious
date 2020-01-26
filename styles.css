@@ -44,6 +44,10 @@ body {
   float: left;
 }
 
+img {
+  margin 20px;
+}
+
 .image-one {
   margin-bottom: 20px;
 }
