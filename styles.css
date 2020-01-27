@@ -31,16 +31,19 @@ body {
  } 
 
  a:hover { 
-  background-color: black;
+  background-color: dimgray;
 }
 
 .hover-box {
-  background-color: lightgrey;
+  background-color: rgb(58, 57, 57);
 }
 
 
 .sidenav {
     max-width: 10px;
+}
+.sidnav-color {
+  color: dimgray !important; 
 }
 
 .responsive {
@@ -68,6 +71,9 @@ img {
   color: gray
 }
 
-a:active {
+.active {
   background-color: black;
+}
+.form-center {
+  margin: auto
 }
